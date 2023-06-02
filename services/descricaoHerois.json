@@ -1,0 +1,137 @@
+[
+  {
+    "nome": "Angela",
+    "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1088809566063558697/Skin-Angela.jpg",
+    "id": "1",
+    "tag": "Mago",
+    "todos": "todos",
+    "bio": "Quando a misteriosa maga Merlyn se prendeu numa bolha depois de um feitiço mal sucedido, ela se viu obrigada a ocupar o Quando a misteriosa maga Merlyn se prendeu numa bolha depois de um feitiço mal sucedido, ela se viu obrigada a ocupar o corpo de Angela, que por acaso passava ali por perto, para conseguir escapar.",
+    "skills": "https://cdn.discordapp.com/attachments/878466225800380477/1088809565778350091/ANGELA-HABILIDADES-1.png"
+  },
+  {
+    "nome": "Arhtur",
+    "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1089904572065136691/166-bigskin-1.jpg",
+    "id": "2",
+    "tag": "Tank",
+    "todos": "todos",
+    "bio": "Quando o templo dos Cavaleiros da Távola Redonda estava sob ataque, o jovem viajante Arthur sacou a Excalibur – a espada na pedra – e derrotou os invasores. Desde aquele dia, ele foi aclamado como Rei Arthur.",
+    "skills": "https://cdn.discordapp.com/attachments/878466225800380477/1089904255688786040/ARTHUR-HABILIDADES.png"
+  },
+  {
+    "nome": "Ata",
+    "imagem": "https://cdn.discordapp.com/attachments/878466225800380477/1089905014614540338/ATA.webp",
+    "id": "3",
+    "tag": "Tank",
+    "todos": "todos",
+    "bio": "O órfão Ata passou a maior parte da juventude trabalhando como estivador e sonhando em viajar pelo alto mar. Seu desejo se tornou realidade quando, por acaso, ele se deparou com um navio pirata e começou uma nova vida entrando para sua tripulação.",
+    "skills": "https://cdn.discordapp.com/attachments/878466225800380477/1089905014945886258/ATA-HABILIDADES.png"
+  },
+  {
+    "nome": "Athena",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/athena.webp",
+    "id": "4",
+    "tag": "Lutadores",
+    "todos": "todos",
+    "bio": "Era uma vez uma nobre guerreira vinda de uma família de cavaleiros e serva da Távola Redonda do Rei Arthur. Essa guerreira definiu como sua missão de vida defender o reino do Crepúsculo contra o mal. Ao encarar de frente seu maior medo, um espírito do Reino Proibido, ela percebeu que, na verdade, aquela aparição era a reencarnação da deusa Athena, e que, como descendente de Athena, ela e o espírito se tornaram um só. A partir daquele momento, sua lança e sua armadura seriam forjadas em vitória e glória, pois ela era Athena renascida.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/ATHENA-HABILIDADES.png"
+  },
+  {
+    "nome": "Bai Qi",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/bai-qi.webp",
+    "id": "5",
+    "tag": "Tank",
+    "todos": "todos",
+    "bio": "Em construção",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/BAI-QI-HABILIDADES-1024x749.png"
+  },
+  {
+    "nome": "Bian Que",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/Bian-Que.webp",
+    "id": "6",
+    "tag": "Mago",
+    "todos": "todos",
+    "bio": "Bian Que era um médico gentil e comprometido em curar doenças e salvar vidas. Com suas habilidades médicas especializadas, ele conseguiu salvar inúmeros pacientes.No entanto, ele foi posteriormente incriminado por seu mentor e acusado de envenenar o Senhor Yong, uma traição que quase causou sua morte. Desde então, ele não confia mais em ninguém e passa todo o seu tempo testando drogas macabras e pesquisando venenos em nome da vingança.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/BIAN-QUE-HABILIDADES-1024x711.png"
+  },
+  {
+    "nome": "Cai Yan",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/CAI-YAN.webp",
+    "id": "7",
+    "tag": "Suporte",
+    "todos": "todos",
+    "bio": "A pura e bondosa Cai Yan sempre traz sorrisos e alegria para as pessoas ao seu redor. Embora tenha perdido o pai na infância, ela cresceu muito amada por Dian Wei e seu pai adotivo, Cao Cao. No entanto, quando a verdade por trás dos eventos passados foi revelada e seu pai adotivo mostrou sua verdadeira face, ela foi forçada a fugir do que pensava ser seu lar.   Apesar dos sofrimentos e dificuldades, ela nunca perdeu a inocência e continua a enfrentar os desafios com um sorriso no rosto. Enquanto voa pelo campo de batalha, ela usa sua música para inspirar e fortalecer a todos.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/CAI-YAN-HABILIDADES-1024x719.png"
+  },
+  {
+    "nome": "Cao Cao",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/CAO-CAO-2.webp",
+    "id": "8",
+    "tag": "Lutador",
+    "todos": "todos",
+    "bio": "Em costrução.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/CAO-CAO-HABILIDADES-1024x738.png"
+  },
+  {
+    "nome": "Consorte Yu",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/CONSORTE-YU.jpg",
+    "id": "9",
+    "tag": "Atirador",
+    "todos": "todos",
+    "bio": "Uma bela e inocente jovem em sintonia com as forças da natureza, cujas flechas irradiam as bênçãos da floresta. Agindo sob ordens de seu mestre, ela embarcou em uma jornada para explorar o mundo, e, no processo, se apaixonou pelo heroico Xiang Yu. Porém, seu superior, Zhang Liang, a alertou que a pessoa por quem ela havia se apaixonado era o mestre das trevas das profecias. De coração partido e conformada com seu destino, a flecha da Consorte Yu já tinha perfurado tragicamente o coração de seu amado quando a ilusão do ser disfarçado de Xhang Liang se dissipou.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/CONSORTE-YU-HABILIDADES-1024x653.png"
+  },
+  {
+    "nome": "Daji",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/DAJI.webp",
+    "id": "10",
+    "tag": "Mago",
+    "todos": "todos",
+    "bio": "Uma marionete sem emoções criada por um senhor proficiente em feitiçaria, Daji é de uma beleza inigualável. Apesar de ter sido criada como marionete, sua aparência não é diferente da de humanos comuns, mas Daji, que não tem um coração de verdade, não consegue entender as emoções humanas. Cheia de inocência e pureza, está sempre muito confusa sobre seus sentimentos. Apesar de sua aparência sedutora geralmente faz inimigos esquecerem de como ela é perigosa, o grande desejo da ingênua Daji é descobrir seu próprio “coração”.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/DAJI-HABILIDADES-1024x683.png"
+  },
+  {
+    "nome": "Di Renjie",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/DI-RENJIE.webp",
+    "id": "11",
+    "tag": "Atirador",
+    "todos": "todos",
+    "bio": "Exigindo nada menos do que a perfeição em sua função como oficial da lei, Di Renjie, é o defensor mais confiável de Chang´an. Com espírito e integridade inabaláveis, ele põe medo nos corações dos criminosos e, por meio de suas realizações como magistrado, conquistou a confiança até da honrada imperatriz Wu Zetian. Suas fichas representam justiça, muitas vezes mortal, pois também servem como sua arma principal. Agindo como os olhos de Wu Zetian pela cidade, nenhuma atividade suspeita lhe passa despercebida.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/DI-RENJIE-HABILIDADES.png"
+  },
+  {
+    "nome": "Dian-Wei",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/dian.jpg",
+    "id": "12",
+    "tag": "Tank",
+    "todos": "todos",
+    "bio": "Em construção",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/DIAN-WEI-HABILIDADES.png"
+  },
+  {
+    "nome": "Jing",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/Skin-1-9.png",
+    "id": "13",
+    "tag": "Assassino",
+    "todos": "todos",
+    "bio": "Jing nasceu em uma antiga família de executores, recebendo treinamento rigoroso desde a infância. No entanto, seus pais desapareceram misteriosamente em uma missão, deixando ela e seu irmão mais novo, Yao, por conta própria. A fim de evitar inimigos que espreitam nas sombras, Jing enterrou seus laços familiares e entrou na Academia Jixia junto com seu irmão para se tornar mais forte. As provações que ela enfrentou no salão dos Espelhos na Academia Jixia lhe deram força e glória, mas foram apenas o primeiro passo no difícil caminho a seguir. Pelo menos agora ela sabe que, não importa o que o futuro lhe reserve, ela nunca vai deixar de seguir em frente.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/JING-HABILIDADES-1.png"
+  },
+  {
+    "nome": "Han Xin",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/Skin-1-5.png",
+    "id": "14",
+    "tag": "Assassino ",
+    "todos": "todos",
+    "bio": "Han Xin pode parecer complacente e solitário, mas, no fundo, é um estrategista inexorável dotado de uma ambição que se equipara à de seu mestre, Liu Bang. Ele suportou inúmeras humilhações para sobreviver e realizar seus objetivos. Tudo isso enquanto, silenciosamente, nutria a fúria que se instaurou em seu coração. Han Xin finge ser só mais um subordinado enquanto espera uma chance de lançar sua fúria sobre as Terras Fluviais, para obter vingança e dar o troco por toda a humilhação que sofreu. ",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/HAN-XIN-HABILIDADES.png"
+  },
+  {
+    "nome": "Diaochan",
+    "imagem": "https://hokarena.com.br/wp-content/uploads/2023/01/diaochan.webp",
+    "id": "15",
+    "tag": "Mago",
+    "todos": "todos",
+    "bio": "Em construção.",
+    "skills": "https://hokarena.com.br/wp-content/uploads/2023/01/DIAOCHAN-HABILIDADES.png"
+  }
+]
