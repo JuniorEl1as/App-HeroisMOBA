@@ -7,10 +7,14 @@ type Props = {
 }
 
 export default function OpcaoMenu ( {titulo}: Props ) {
-    const {setCategoriaHerois}: any = useContext(AuthContext);
+    const {setCategoriaHerois, categoriaHerois}: any = useContext(AuthContext);
 
     function capturarCategoria(titulo: string) {
         setCategoriaHerois(titulo);
+
+        if(categoriaHerois === "todos"){
+            setCategoriaHerois("")
+        }
     }
     
     return (

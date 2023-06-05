@@ -13,18 +13,21 @@ type PropsDaTela = {
     navigation: PropsNavegacao,
 }
 
-export default function Home({navigation}: PropsDaTela) {
+export default function Home({ navigation }: PropsDaTela) {
     const { categoriaHerois }: any = useContext(AuthContext);
 
     console.log(categoriaHerois);
 
-    const Atirador = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Atirador")
+    const Atirador = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Atiradores")
     const Assassino = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Assassino")
     const Lutador = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Lutador")
-    const Mago = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Mago")
+    const Mago = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Magos")
     const Suporte = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Suporte")
-    const Tank = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Tank")
+    const Tank = HeroisDescricao.filter((heroi: Heroi) => heroi.tag === "Tanks")
 
+    const filtro = HeroisDescricao.filter((tag) => tag.tag === categoriaHerois)
+    console.log(filtro);
+    
     return (
         <SafeAreaView>
             <StatusBar />
@@ -32,15 +35,25 @@ export default function Home({navigation}: PropsDaTela) {
                 <Menu />
             </View>
 
+            { filtro.length > 0 ? 
+
+            <FlatList
+                data={filtro}
+                keyExtractor={(Heroi: Heroi) => Heroi.id}
+                renderItem={({ item }) => <CardHeroi value={item} />}
+            /> 
+            
+            : 
+            
             <ScrollView>
-                <View  style={styles.container}>
+                <View style={styles.container}>
 
                     <Text style={{ marginLeft: 15, marginBottom: 15, marginTop: 15 }}>Atirador</Text>
                     <FlatList
                         horizontal={true}
                         data={Atirador}
                         keyExtractor={(Heroi: Heroi) => Heroi.id}
-                        renderItem={({ item }) => <CardHeroi value={item} navigation={navigation}/>}
+                        renderItem={({ item }) => <CardHeroi value={item} navigation={navigation} />}
                     />
 
                     <Text style={{ marginLeft: 15, marginBottom: 15, marginTop: 15 }}>Assassino</Text>
@@ -83,7 +96,9 @@ export default function Home({navigation}: PropsDaTela) {
                         renderItem={({ item }) => <CardHeroi value={item} />}
                     />
                 </View>
-            </ScrollView>
+            </ScrollView>}
+
+
 
         </SafeAreaView>
     )

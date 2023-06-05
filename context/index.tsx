@@ -3,6 +3,8 @@ import React, { createContext, useState } from 'react';
 export type MeuContext = {
   categoriaHerois: string;
   setCategoriaHerois: (value: string) => void;
+  capturarValueCategoria: string;
+  setCapturarValueCategoria: (value: string) => void;
 };
 
 export interface Heroi {
@@ -19,10 +21,13 @@ const AuthContext = createContext<MeuContext | undefined>(undefined);
 
 const AuthContextProvedor = ({ children }: any) => {
     const [categoriaHerois, setCategoriaHerois] = useState<string>("");
+    const [capturarValueCategoria, setCapturarValueCategoria] = useState<string>("");
 
   return (
     <AuthContext.Provider
       value={{
+        setCapturarValueCategoria,
+        capturarValueCategoria,
         categoriaHerois, 
         setCategoriaHerois,
       }}>

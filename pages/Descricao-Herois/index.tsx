@@ -16,8 +16,6 @@ type PropsDaTela2 = {
 export default function DescricaoHeroi({ route }: PropsDaTela2) {
     const { nome, imagem, id, tag, todos, bio, skills } = route.params
 
-    console.log(skills);
-
     return (
         <View style={{ padding: 10 }}>
 
